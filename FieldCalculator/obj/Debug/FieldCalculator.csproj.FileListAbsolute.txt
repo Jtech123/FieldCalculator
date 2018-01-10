@@ -1,0 +1,12 @@
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\bin\Debug\FieldCalculator.exe.config
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\bin\Debug\FieldCalculator.exe
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\bin\Debug\FieldCalculator.pdb
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.Properties.Resources.resources
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.triangle.resources
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.csproj.GenerateResource.Cache
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.exe
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.pdb
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.Square.resources
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.Circle.resources
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.Form1.resources
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\FieldCalculator\obj\Debug\FieldCalculator.csprojResolveAssemblyReference.cache

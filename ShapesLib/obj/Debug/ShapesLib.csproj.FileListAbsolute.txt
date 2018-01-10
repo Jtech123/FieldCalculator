@@ -1,0 +1,5 @@
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\bin\Debug\ShapesLib.dll
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\bin\Debug\ShapesLib.pdb
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\obj\Debug\ShapesLib.dll
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\obj\Debug\ShapesLib.pdb
+C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\obj\Debug\ShapesLib.csprojResolveAssemblyReference.cache

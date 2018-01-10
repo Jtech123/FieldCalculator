@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Diagnostic" Text="ProjectPath = ..\ShapesLib\ShapesLib.csproj" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Medium" Text="Shapes's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'Shapes::Shape' -  (Class), 'Shapes::Square' -  (Class), 'Shapes::Triangle' -  (Class), 'Shapes::Circle' -  (Class) " />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Medium" Text="'Shapes::Shape' -  (Class) : success (file replaced) - C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\GeneratedCode\Shape.cs" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Medium" Text="'Shapes::Square' -  (Class) : success (file replaced) - C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\GeneratedCode\Square.cs" />
+  <Message Timestamp="2017-12-04T15:38:22" Importance="Medium" Text="'Shapes::Triangle' -  (Class) : success (file replaced) - C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\GeneratedCode\Triangle.cs" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Medium" Text="'Shapes::Circle' -  (Class) : success (file replaced) - C:\Users\D181761\Documents\Visual Studio 2017\Projects\FieldCalculator\ShapesLib\GeneratedCode\Circle.cs" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="ProjectPath = ..\ShapesLib\ShapesLib.csproj" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Medium" Text="Shapes's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'Shapes::Shape' -  (Class), 'Shapes::Square' -  (Class), 'Shapes::Triangle' -  (Class), 'Shapes::Circle' -  (Class) " />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="'Shapes::Shape' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="'Shapes::Square' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="'Shapes::Triangle' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="'Shapes::Circle' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="The selection included 3 elements which were not bound to a template." />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="'f436103d-c04d-4a4f-ae0c-d942d1231de6' -  (Generalization): no bound template." />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="'54e03c60-d6af-490f-b1c0-a253c686faec' -  (Generalization): no bound template." />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="Diagnostic" Text="'4fec22e4-ed9f-4907-a161-4ee125cc8c58' -  (Generalization): no bound template." />
+  <Message Timestamp="2017-12-04T15:38:23" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
